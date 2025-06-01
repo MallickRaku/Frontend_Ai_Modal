@@ -1,0 +1,23 @@
+.previousContainer {
+  scrollbar-width: 10px;
+  scroll-behavior: smooth;
+}
+
+.questionbox:hover {
+  /* background-color: rgb(205, 230, 206); */
+  color: green;
+  transition: 0.1s linear;
+  transform: scale(0.96);
+  cursor: pointer;
+  box-shadow: 1px 1px 10px rgb(75, 75, 75);
+}
+.PreviousChat {
+  padding-left: 10px;
+  text-shadow: 1px 1px 10px rgb(75, 75, 75);
+  cursor: pointer;
+}
+
+.PreviousChat:hover {
+  /* background-color: rgb(85, 83, 83); */
+  text-shadow: 1px 1px 10px rgb(75, 75, 75);
+}
